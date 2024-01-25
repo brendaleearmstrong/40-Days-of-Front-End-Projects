@@ -1,2 +1,2 @@
-# FE Projects Day 1
- Front End Projects - Day 1
+# Front End Practice Projects Day 2
+## Progress Status Bar 

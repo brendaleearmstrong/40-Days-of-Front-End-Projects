@@ -3,4 +3,5 @@ Using .HTML .CSS .JavaScript to create a basic website to show some basic skills
 
 ## Day 1 - Expanding Cards with JavaScript
 ## Day 2 - Progress Status Bar
+## Day 3 - Rotating Navigation
 
